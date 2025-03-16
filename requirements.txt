@@ -3,7 +3,6 @@ langchain
 flask
 pypdf
 python-dotenv
-pinecone[grpc]
 pinecone-client
 langchain-huggingface
 langchain-pinecone

@@ -6,8 +6,4 @@ COPY . /app
 
 RUN pip install -r requirements.txt
 
-RUN pip uninstall -y pinecone-plugin-inference
-
-RUN pip install pinecone-client
-
 CMD ["python3", "app.py"]
