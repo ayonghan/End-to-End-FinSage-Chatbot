@@ -1,2 +1,2 @@
-# End-to-End-FinSage-Chatbot
-FinSage Chatbot AWS Deployed on EC2 instance via ECR, powered by groq, langchain and pinecone
+# fin-sage
+Financial Advisor Chatbot, RAG-based, powered by Groq
