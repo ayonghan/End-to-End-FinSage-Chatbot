@@ -68,4 +68,7 @@ def chat():
 
 
 if __name__ == "__main__":
+    # local env
+    # app.run(host="127.0.0.1", port=8080, debug=True)
+    # production env
     app.run(host="0.0.0.0", port=8080, debug=True)
