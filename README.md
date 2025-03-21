@@ -12,7 +12,7 @@ Financial Advisor Chatbot, RAG-based, powered by Groq
 ### 1. Create a conda environment after cloning the repository
 
 ```bash
-conda create -n ask-document-cenv python=3.10 -y
+conda create -n fin-sage-cenv python=3.10 -y
 ```
 
 ```bash
