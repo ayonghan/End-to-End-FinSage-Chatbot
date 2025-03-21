@@ -16,7 +16,7 @@ conda create -n fin-sage-cenv python=3.10 -y
 ```
 
 ```bash
-conda activate ask-document-cenv
+conda activate fin-sage-cenv
 ```
 
 
